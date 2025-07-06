@@ -9,9 +9,10 @@ permalink: /logistics/
 
 MCM 2025 will take place in Chicago. Greater Chicago is home to several research universities and two United States Department of Energy research laboratories.  Chicago is a major transportation hub, which will facilitate scholars from all over the world coming together to share the latest developments in Monte Carlo methods.
 
-The conference will be held at Hermann, Perlstein, and Wishnick Halls at the Mies campus of the Illinois Institute of Technology, which is situated a few miles south of downtown and accessible by public transportation.
+The conference will be held at Hermann Hall (HH), Perlstein Hall (PH), and Wishnick Hall (WH) at the Mies (main) campus of the Illinois Institute of Technology, which is situated a few miles south of downtown and accessible by public transportation.
 * [Directions to IIT](https://www.iit.edu/about/campus-information/mies-campus) 
 * [IIT Campus Map](https://www.iit.edu/about/campus-information/mies-campus/mies-campus-map)
+* [Hermann Hall Floorplan]({{ site.baseurl }}/downloads/HH_Standard_Portrait_Labled_Flattened.pdf)
 
 
 Illinois Tech is located several miles south of downtown.  You  can reach Illinois Tech via 
@@ -38,7 +39,7 @@ Meals will _not_ be provided, except for the Wednesday night conference banquet.
     - [Yee's Cantonese Kitchen](https://www.yelp.com/biz/yees-cantonese-kitchen-chicago-2)
 * Near the corner of 33rd Street and Wentworth Avenue Streets
 	- [Stix n Brix Pizza Cafe](https://stixnbrix33.com/)
-    - [Turtle's Bar & Grill](https://www.yelp.com/biz/turtles-bar-and-grill-chicago)
+    - [Turtle's Bar \& Grill](https://www.yelp.com/biz/turtles-bar-and-grill-chicago)
 * Near the corner of 35th and State Streets
     - [Jimmy John's submarine sandwiches](https://www.yelp.com/biz/jimmy-johns-chicago-22)
     - [Starbucks](https://www.yelp.com/biz/starbucks-chicago-113)
