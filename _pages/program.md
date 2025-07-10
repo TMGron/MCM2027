@@ -26,13 +26,13 @@ permalink: /program/
 
 
 
-The program book and schedule are updated regularly.  The latest update is __July 3, 2025__:
-* [**Schedule**]({{ site.baseurl }}/downloads/MCM2025_schedule_2025_07_03_15_42_13.pdf)
+The program book and schedule are updated regularly.  The latest update is __July 9, 2025__:
+* [**Schedule**]({{ site.baseurl }}/downloads/MCM2025_schedule_2025_07_09_23_00_09.pdf)
 
-* [**Program Book**]({{ site.baseurl }}/downloads/MCM2025_Book_2025_07_03_15_42_13.pdf)
+* [**Program Book**]({{ site.baseurl }}/downloads/MCM2025_Book_2025_07_09_23_00_09.pdf)
 
 **Outline schedule**:
-<iframe src="{{ site.baseurl }}/downloads/MCM2025_schedule1sheet_2025_07_03_15_42_13.pdf" width="100%" height="600px">
+<iframe src="{{ site.baseurl }}/downloads/MCM2025_schedule1sheet_2025_07_09_23_00_09.pdf" width="100%" height="600px">
     This browser does not support PDFs. Please download the PDF to view it:
-    <a href="{{ site.baseurl }}/downloads/MCM2025_schedule1sheet_2025_07_03_15_42_13.pdf">Download PDF</a>
+    <a href="{{ site.baseurl }}/downloads/MCM2025_schedule1sheet_2025_07_09_23_00_09.pdf">Download PDF</a>
 </iframe>
