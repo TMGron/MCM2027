@@ -119,6 +119,19 @@ MCM 2025 will include active topics of research in Monte Carlo methods---those w
 * Chang-Han Rhee, Industrial Engineering and Management Sciences, Northwestern U
 * Daniel Sanz-Alonso, Statistics, U Chicago
 
+## Assistants
+* Claude Hall Jr.
+* Mikhail Hall
+* Saman Haratian
+* Joshua Herman
+* Jiangrui Kang
+* Larysa Matiukha
+* Mahdi Ibrahim Mensah
+* Rahul Prasad
+* Aleksei G. Sorokin
+* Priscilla Yinzime
+
+
 ## History of conferences
 
 * Paris, France, July 2023
