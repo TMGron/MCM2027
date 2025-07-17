@@ -107,7 +107,7 @@ MCM 2025 will include active topics of research in Monte Carlo methods---those w
 
 ## Organizers
 
-* Sou-Cheng Choi, Principal Data Scientist, SAS Institute and Applied Mathematics, Illinois Institute of Technology
+* Sou-Cheng Choi, Applied Mathematics, Illinois Institute of Technology
 * Yuhan Ding, Applied Mathematics, Illinois Institute of Technology
 * Fred Hickernell, Applied Mathematics, Illinois Institute of Technology
 * Tim Hobbs, Physics, Argonne National Laboratory
