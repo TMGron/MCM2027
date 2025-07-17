@@ -5,6 +5,15 @@ excerpt: "MCM 2025 -- Safety."
 sitemap: false
 permalink: /safety/
 ---
+
+<nav class="section-nav">
+  <ul class="nav justify-content-center flex-wrap">
+     <li class="nav-item"><a class="nav-link" href="#emergency">Contacts</a></li>
+    <li class="nav-item"><a class="nav-link" href="#nondiscrimination">Nondiscrimination</a></li>
+   </ul>
+</nav>
+
+<section id="emergency" class="anchor-offset">
 ## Emergency Contacts, Services on Campus, and Hospitals
 
  - **Emergency:** Call 911 for police, fire, or medical emergencies
@@ -13,6 +22,7 @@ permalink: /safety/
 - **Conference Organizers:** Come to the registration desk or email [info@mcm2025chicago.org](mailto:info@mcm2025chicago.org)
 
 
+<section id="nondiscrimination" class="anchor-offset">
 ## Nondiscrimination
 
 Illinois Institute of Technology (Illinois Tech) is committed to creating and maintaining a community dedicated to the advancement, application, and transmission of knowledge and creative endeavors through academic excellence, where all individuals who participate in University programs and activities can work and learn together in an atmosphere free of harassment, exploitation, or intimidation.

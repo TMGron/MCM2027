@@ -5,6 +5,17 @@ excerpt: "MCM 2025 -- Logistics."
 sitemap: false
 permalink: /logistics/
 ---
+<nav class="section-nav">
+  <ul class="nav justify-content-center flex-wrap">
+	<li class="nav-item"><a class="nav-link" href="#location">Location</a></li>
+	<li class="nav-item"><a class="nav-link" href="#food">Food</a></li>
+	<li class="nav-item"><a class="nav-link" href="#speakers">Guidance for Speakers</a></li>
+	<li class="nav-item"><a class="nav-link" href="#chairs">Guidance for Session Chairs</a></li>
+
+  </ul>
+</nav>
+
+<section id="location" class="anchor-offset">
 ## Conference Location
 
 MCM 2025 will take place in Chicago. Greater Chicago is home to several research universities and two United States Department of Energy research laboratories.  Chicago is a major transportation hub, which will facilitate scholars from all over the world coming together to share the latest developments in Monte Carlo methods.
@@ -23,6 +34,7 @@ Illinois Tech is located several miles south of downtown.  You  can reach Illino
 
 If you are driving to Illinois Tech, there is paid visitor parking in the lot on the east side of State Street between 31st and 32nd Streets (enter via State Street).
 
+<section id="food" class="anchor-offset">
 ## Food
 
 Meals will _not_ be provided, except for the Wednesday night conference banquet. There are several places on campus or nearby where you can purchase meals.  They are shown in [this Google map](https://www.google.com/maps/d/u/1/edit?mid=1QH5guZDg-m8_f1oO9HgZ5sIL76q1gdk&usp=sharing).
@@ -45,5 +57,9 @@ Meals will _not_ be provided, except for the Wednesday night conference banquet.
     - [Starbucks](https://www.yelp.com/biz/starbucks-chicago-113)
 
 
-## Instructions for speakers
+<section id="speakers" class="anchor-offset">
+## Guidance for Speakers
 TBD
+
+<section id="chairs" class="anchor-offset">
+## Guidance for Session Chairs

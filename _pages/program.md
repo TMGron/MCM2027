@@ -6,7 +6,16 @@ sitemap: false
 permalink: /program/
 ---
 
-**Important dates and times**
+<nav class="section-nav">
+  <ul class="nav justify-content-center flex-wrap">
+     <li class="nav-item"><a class="nav-link" href="#important">Important Dates and Times</a></li>
+    <li class="nav-item"><a class="nav-link" href="#book">Program Book</a></li>
+    <li class="nav-item"><a class="nav-link" href="#outline">Outline Schedule</a></li>
+   </ul>
+</nav>
+
+<section id="important" class="anchor-offset">
+## Important Dates and Times
 * Monday, July 28
   * 8:00 AM — Check-in to get your name tag and bag
   * 8:45 AM — Conference begins in HH auditorium
@@ -24,14 +33,19 @@ permalink: /program/
   * 9:00 AM — Conference begins in HH auditorium
   * 12:45 PM — Conference concludes in HH auditorium
 
-
+<section id="book" class="anchor-offset">
+## Program Book
 
 The program book and schedule are updated regularly.  The latest update is __July 14, 2025__:
 * [**Schedule**]({{ site.baseurl }}/downloads/MCM2025_schedule_2025_07_14_22_30_05.pdf)
 
 * [**Program Book**]({{ site.baseurl }}/downloads/MCM2025_Book_2025_07_14_22_30_05.pdf)
 
-**Outline schedule**:
+* [**Schedule Plus Abstracts**]({{ site.baseurl }}/downloads/MCM2025_schedule_abstracts_2025_07_14_22_30_05.pdf)
+
+
+<section id="outline" class="anchor-offset">
+## Outline Schedule
 <iframe src="{{ site.baseurl }}/downloads/MCM2025_schedule1sheet_2025_07_14_22_30_05.pdf" width="100%" height="600px">
     This browser does not support PDFs. Please download the PDF to view it:
     <a href="{{ site.baseurl }}/downloads/MCM2025_schedule1sheet_2025_07_14_22_30_05.pdf">Download PDF</a>
