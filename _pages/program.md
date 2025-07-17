@@ -13,13 +13,13 @@ permalink: /program/
   * 5:30 PM — Welcome reception in HH lobby
 * Tuesday, July 29
   * 9:00 AM — Conference begins in HH auditorium
-  * 6:00 PM — Walk to White Sox game (Meet in HH lobby, block booked tickets in Box 118 Rows 14–16 are SOLD OUT, but you can purchase individual tickets nearby <a href="https://www.ticketmaster.com/chicago-white-sox-vs-philadelphia-phillies-chicago-illinois-07-29-2025/event/04006185B901373E?refArtist=K8vZ9171ok0&f_simplified_filter=true">here</a>)
+  * 6:00 PM — Walk to White Sox game (Meet in HH lobby, block booked tickets in Box 118 Rows 14–16 are SOLD OUT, but you can purchase individual tickets nearby [here](https://www.ticketmaster.com/chicago-white-sox-vs-philadelphia-phillies-chicago-illinois-07-29-2025/event/04006185B901373E?refArtist=K8vZ9171ok0&f_simplified_filter=true)
 * Wednesday, July 30
   * 9:00 AM — Conference begins in HH auditorium
   * 6:00 PM — Conference banquet at the Bridgeport Arts Center
 * Thursday, July 31
   * 9:00 AM — Conference begins in HH auditorium
-  * 7:00 PM — Informal early career dinner in downtown Chicago (Indicate your interest <a href="https://forms.office.com/Pages/ResponsePage.aspx?id=PmWQ2gIeCEK2imIkiRvqY6NeY7amNwBPnaXAHlNeNg9UODFMSEVLRjBDWjFQWU5DRVdaSDQ2RTlRRi4u">here</a>)
+  * 7:00 PM — Informal early career dinner in downtown Chicago (indicate your interest [here](https://forms.office.com/Pages/ResponsePage.aspx?id=PmWQ2gIeCEK2imIkiRvqY6NeY7amNwBPnaXAHlNeNg9UODFMSEVLRjBDWjFQWU5DRVdaSDQ2RTlRRi4u))
 * Friday, August 1, 2025
   * 9:00 AM — Conference begins in HH auditorium
   * 12:45 PM — Conference concludes in HH auditorium

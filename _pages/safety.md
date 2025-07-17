@@ -8,7 +8,7 @@ permalink: /safety/
 ## Emergency Contacts, Services on Campus, and Hospitals
 
  - **Emergency:** Call 911 for police, fire, or medical emergencies
-- **[Illinois Tech Public Safety](https://www.iit.edu/public-safety):** (312) 808-6363 % 
+- **[Illinois Tech Public Safety](https://www.iit.edu/public-safety):** (312) 808-6363 and see also [this handout]({{ site.baseurl }}/downloads/IIT-Safety_Support Resources_2025.pdf)
 - **Nearest Hospital:** Insight Hospital and Medical Center Chicago,  2525 South Michigan Avenue, Chicago, IL 60616
 - **Conference Organizers:** Come to the registration desk or email [info@mcm2025chicago.org](mailto:info@mcm2025chicago.org)
 
