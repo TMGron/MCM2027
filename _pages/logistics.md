@@ -114,9 +114,13 @@ The conference assistant will perform these steps but they are included for your
 
 #### Internet Access
 
-Illinois Institute of Technology is a partner with eduroam, and you can get internet access via that route if your institution is an eduroam partner.
+Illinois Tech is a partner with eduroam, and you can get internet access via that route if your institution is an eduroam partner.
 
-[IIT guests to be filled in]
+Another option is to log onto the Illinois Tech internet through [IIT-Connect](https://www.iit.edu/ots/internet-network/illinois-tech-wireless-networks/guest-wireless) 
+
+* When associating to IIT-Connect, a captive portal page loads which provides guests the ability to sign in directly or self register. Self registration requires a phone number to receive an SMS message with login credentials. 
+
+* There is also guest account, MCM25, which you can use to connect to IIT-Connect.  The password will be posted at the registration desk.  This account does not require registration.  
 
 #### Electrical Power
 
