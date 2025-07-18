@@ -7,6 +7,18 @@ permalink: /travel/
 ---
 
 
+<nav class="section-nav">
+  <ul class="nav justify-content-center flex-wrap">
+     <li class="nav-item"><a class="nav-link" href="#location">Location</a></li>
+    <li class="nav-item"><a class="nav-link" href="#travel">Travel</a></li>
+     <li class="nav-item"><a class="nav-link" href="#lodging">Lodging</a></li>
+    <li class="nav-item"><a class="nav-link" href="#campus">Campus</a></li>
+   <li class="nav-item"><a class="nav-link" href="#lake">Lake Michigan</a></li>
+    </ul>
+</nav>
+
+
+
 <section id="location" class="anchor-offset">
 ### Conference Location
 
@@ -19,15 +31,7 @@ MCM 2025 will take place in Chicago. Greater Chicago is home to several research
 * Our main domestic passenger rail line is [Amtrak](https://www.amtrak.com/home.html)
 </section>
 
-<nav class="section-nav">
-  <ul class="nav justify-content-center flex-wrap">
-     <li class="nav-item"><a class="nav-link" href="#location">Location</a></li>
-    <li class="nav-item"><a class="nav-link" href="#travel">Travel</a></li>
-     <li class="nav-item"><a class="nav-link" href="#lodging">Lodging</a></li>
-    <li class="nav-item"><a class="nav-link" href="#campus">Campus</a></li>
-   <li class="nav-item"><a class="nav-link" href="#lake">Lake Michigan</a></li>
-    </ul>
-</nav>
+
 
 <section id="travel" class="anchor-offset">
 ### Travel to the United States
