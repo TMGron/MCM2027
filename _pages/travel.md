@@ -5,7 +5,7 @@ excerpt: "MCM 2025 -- Travel."
 sitemap: false
 permalink: /travel/
 ---
-<nav class="section-nav">
+<div nav class="section-nav">
   <ul class="nav justify-content-center flex-wrap">
      <li class="nav-item"><a class="nav-link" href="#location">Location</a></li>
     <li class="nav-item"><a class="nav-link" href="#travel">Travel</a></li>
@@ -13,7 +13,7 @@ permalink: /travel/
     <li class="nav-item"><a class="nav-link" href="#campus">Campus</a></li>
    <li class="nav-item"><a class="nav-link" href="#lake">Lake Michigan</a></li>
     </ul>
-</nav>
+</div>
 
 <section id="location" class="anchor-offset">
 ### Conference Location
