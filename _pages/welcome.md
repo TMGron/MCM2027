@@ -36,7 +36,7 @@ The biennial International Conference on Monte Carlo Methods and Applications (M
 <!-- Funding decisions for travel support through our sponsor, IMSI, have been made. Those who [apply now](https://www.imsi.institute/activities/15th-international-conference-on-monte-carlo-methods-and-applications-mcm/) will be added to the waitlist. -->
 
 <section id="topics" class="anchor-offset">
-## Topics
+### Topics
 
 MCM 2025 will include active topics of research in Monte Carlo methods---those with a long history as well as those emerging topics.  These will include
 * Markov chain Monte Carlo
@@ -67,7 +67,7 @@ MCM 2025 will include active topics of research in Monte Carlo methods---those w
 </section>
 
 <section id="plenary" class="anchor-offset">
-## Plenary Speakers
+### Plenary Speakers
 
 * Nicolas Chopin, ENSAE, Institut Polytechnique de Paris
 * Peter W Glynn, Stanford U
@@ -80,7 +80,7 @@ MCM 2025 will include active topics of research in Monte Carlo methods---those w
 </section>
 
 <section id="steering" class="anchor-offset">
-## Steering Committee
+### Steering Committee
 
 * Ronald Cools, KU Leuven
 * Mike Giles, Oxford University
@@ -92,7 +92,7 @@ MCM 2025 will include active topics of research in Monte Carlo methods---those w
 * Bruno Tuffin, Inria Rennes Bretagne-Atlantique
 
 <section id="scientific" class="anchor-offset">
-## Scientific Committee
+### Scientific Committee
 
 * Miguel Arratia, Department of Physics and Astronomy, U California, Riverside
 * Ronald Cools, Department of Computer Science, KU Leuven
@@ -125,7 +125,7 @@ MCM 2025 will include active topics of research in Monte Carlo methods---those w
 * Jonathan Weare, Courant Institute of Mathematical Sciences, New York U
 
 <section id="organizers" class="anchor-offset">
-## Organizers
+### Organizers
 
 * Sou-Cheng Choi, Applied Mathematics, Illinois Institute of Technology
 * Yuhan Ding, Applied Mathematics, Illinois Institute of Technology
@@ -140,7 +140,7 @@ MCM 2025 will include active topics of research in Monte Carlo methods---those w
 * Daniel Sanz-Alonso, Statistics, U Chicago
 
 <section id="assistants" class="anchor-offset">
-## Conference Assistants
+### Conference Assistants
 * Claude Hall Jr.
 * Mikhail Hall
 * Saman Haratian
@@ -153,8 +153,10 @@ MCM 2025 will include active topics of research in Monte Carlo methods---those w
 * Priscilla Yinzime
 
 <section id="history" class="anchor-offset">
-## History of conferences
+### History of MCM Conferences
 
+* TBA, 2027
+* Chicago, United States, July 2025
 * Paris, France, July 2023
 * Mannheim, Germany, August 2021
 * Sydney, Australia, July 2019
