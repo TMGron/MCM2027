@@ -23,10 +23,10 @@ permalink: /logistics/
 
 MCM 2025 will take place in Chicago. Greater Chicago is home to several research universities and two United States Department of Energy research laboratories.  Chicago is a major transportation hub, which will facilitate scholars from all over the world coming together to share the latest developments in Monte Carlo methods.
 
-The conference will be held at Hermann Hall (HH), Perlstein Hall (PH), and Wishnick Hall (WH) at the Mies (main) campus of the Illinois Institute of Technology, which is situated a few miles south of downtown and accessible by public transportation.
+The conference will be held at Hermann Hall (HH) and Wishnick Hall (WH) at the Mies (main) campus of the Illinois Institute of Technology, which is situated a few miles south of downtown and accessible by public transportation.
 * [Directions to IIT](https://www.iit.edu/about/campus-information/mies-campus) 
 * [IIT Campus Map](https://www.iit.edu/about/campus-information/mies-campus/mies-campus-map)
-* [Hermann Hall Floorplan]({{ site.baseurl }}/downloads/HH_Standard_Portrait_Labled_Flattened.pdf)
+* [Hermann Hall Floorplan]({{ site.baseurl }}/downloads/HH_Labeled_Flattened.pdf)
 
 
 Illinois Tech is located several miles south of downtown.  You  can reach Illinois Tech via 
