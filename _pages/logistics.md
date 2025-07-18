@@ -13,7 +13,7 @@ permalink: /logistics/
 	<li class="nav-item"><a class="nav-link" href="#food">Food</a></li>
 	<li class="nav-item"><a class="nav-link" href="#speakers">Guidance for Speakers</a></li>
 	<li class="nav-item"><a class="nav-link" href="#chairs">Guidance for Session Chairs</a></li>
-	<li class="nav-item"><a class="nav-link" href="#tech">Other Technology</a></li>
+	<li class="nav-item"><a class="nav-link" href="#tech">Technology</a></li>
 
   </ul>
 </nav>
