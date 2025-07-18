@@ -6,6 +6,7 @@ sitemap: false
 permalink: /safety/
 ---
 
+<span style="display:none">.</span>
 <nav class="section-nav">
   <ul class="nav justify-content-center flex-wrap">
      <li class="nav-item"><a class="nav-link" href="#emergency">Contacts</a></li>

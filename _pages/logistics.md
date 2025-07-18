@@ -5,6 +5,8 @@ excerpt: "MCM 2025 -- Logistics."
 sitemap: false
 permalink: /logistics/
 ---
+
+<span style="display:none">.</span>
 <nav class="section-nav">
   <ul class="nav justify-content-center flex-wrap">
 	<li class="nav-item"><a class="nav-link" href="#location">Location</a></li>
