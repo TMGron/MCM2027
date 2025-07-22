@@ -29,7 +29,8 @@ permalink: /program/
   * 6:00 PM — Conference banquet at the Bridgeport Arts Center
 * Thursday, July 31
   * 9:00 AM — Conference begins in HH auditorium
-  * 7:00 PM — Informal early career dinner in downtown Chicago (indicate your interest [here](https://forms.office.com/Pages/ResponsePage.aspx?id=PmWQ2gIeCEK2imIkiRvqY6NeY7amNwBPnaXAHlNeNg9UODFMSEVLRjBDWjFQWU5DRVdaSDQ2RTlRRi4u))
+  * 6:30 PM - Steering Committee meeting (by invitation only) at [Mikami Izakaya & Ramen](https://www.mikamichicago.com)
+  * 7:00 PM — Informal early career dinner at [Time Out](https://www.timeout.com/time-out-market-chicago)
 * Friday, August 1, 2025
   * 9:00 AM — Conference begins in HH auditorium
   * 12:45 PM — Conference concludes in HH auditorium
