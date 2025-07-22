@@ -11,7 +11,7 @@ permalink: /logistics/
   <ul class="nav justify-content-center flex-wrap">
 	<li class="nav-item"><a class="nav-link" href="#location">Location</a></li>
 	<li class="nav-item"><a class="nav-link" href="#food">Food</a></li>
-	<li class="nav-item"><a class="nav-link" href="#speakers">Guidance for Speakers</a></li>
+	<li class="nav-item"><a class="nav-link" href="#speakers">Guidance for Presenters</a></li>
 	<li class="nav-item"><a class="nav-link" href="#chairs">Guidance for Session Chairs</a></li>
 	<li class="nav-item"><a class="nav-link" href="#tech">Technology</a></li>
 
@@ -61,7 +61,7 @@ Meals will _not_ be provided, except for the Wednesday night conference banquet.
 
 
 <section id="speakers" class="anchor-offset">
-### Guidance for Speakers
+### Guidance for Presenters
 Thank you for sharing with us your latest insight.  Be aware that your audience will likely include experts as well as the curious.  Please make the first one-third of your talk accessible to a general audience.
 
 * Plenary speakers please keep your talk to **50 minutes** to allow time for a robust discussion afterward.
@@ -75,7 +75,7 @@ To allow the smooth flow of talks, we ask all speakers to do the following:
 *  Slides will reside on a shared drive.
 *  When you upload your slides, you may specify whether or not you want conferees to be able to view them.
 *  As a safeguard, bring a copy of your slides on a USB drive.
-*  Go the room where they will present at least 10 minutes before the start of your session to familiarize yourself with the room and ensure that your slides are accessible.
+*  Go the room where you will present at least 10 minutes before the start of your session to familiarize yourself with the room and ensure that your slides are accessible.
 
 Slides will be presented using the computers in the lecture rooms.  A conference assistant will help the speakers access the slides when giving their presentations.
 
