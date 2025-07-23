@@ -129,3 +129,6 @@ In the United States, the standard voltage is 120V at a frequency of 60Hz.  The 
 * Type A (two flat parallel pins) and
 * Type B (two flat parallel pins plus a round grounding pin).
 
+#### Printing
+We do not have printers available at the conference venue, but you may print your documents at
+at [Illinois Tech Office Services](https://iitofficeservices.myprintdesk.net), located in MTCC.

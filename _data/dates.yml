@@ -9,13 +9,15 @@
 
 - date: 6 PM, Tuesday, July 29, 2025
   headline: Walk to White Sox game 
-  box_content: <br>(Meet in HH lobby, block booked tickets in Box 118 Rows 14–16 are SOLD OUT, but you can purchase individual tickets nearby <a href="https://www.ticketmaster.com/chicago-white-sox-vs-philadelphia-phillies-chicago-illinois-07-29-2025/event/04006185B901373E?refArtist=K8vZ9171ok0&f_simplified_filter=true">here</a>.)
+  box_content: <br>(Meet in HH lobby, block booked tickets in Box 118 Rows 14–16 are SOLD OUT, but you can purchase individual tickets nearby <a href="https://www.ticketmaster.com/chicago-white-sox-vs-philadelphia-phillies-chicago-illinois-07-29-2025/event/04006185B901373E?refArtist=K8vZ9171ok0&f_simplified_filter=true">here</a>)
 
 - date: 6 PM, Wednesday, July 30, 2025
   headline: Conference banquet at the <a href="https://www.bridgeportart.com">Bridgeport Art Center</a>
+  box_content: <br> purchase guest tickets <a href="https://secure.touchnet.com/C20090_ustores/web/product_detail.jsp?PRODUCTID=2498&SINGLESTORE=true">here</a>
 
 - date: 7 PM, Thursday, July 31, 2025
-  headline: Informal early career dinner (pay your own way) at <a href="https://www.timeout.com/time-out-market-chicago">Time Out</a> in Fulton Market
+  headline: Informal early career dinner at <a href="https://www.timeout.com/time-out-market-chicago">Time Out</a> in Fulton Market 
+  box_content: <br>(pay your own way) 
 
 - date: 12:45 PM, Friday, August 1, 2025
   headline: Conference concludes in HH auditorium
