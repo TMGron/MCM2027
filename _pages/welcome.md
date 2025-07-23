@@ -6,6 +6,20 @@ sitemap: false
 permalink: /
 ---
 
+<span style="display:none">.</span>
+<nav class="section-nav">
+  <ul class="nav justify-content-center flex-wrap">
+     <li class="nav-item"><a class="nav-link" href="#topics">Topics</a></li>
+    <li class="nav-item"><a class="nav-link" href="#plenary">Plenary Speakers</a></li>
+     <li class="nav-item"><a class="nav-link" href="#steering">Steering Committee</a></li>
+    <li class="nav-item"><a class="nav-link" href="#scientific">Scientific Committee</a></li>
+    <li class="nav-item"><a class="nav-link" href="#organizers">Organizers</a></li>
+    <li class="nav-item"><a class="nav-link" href="#assistants">Conference Assistants</a></li>
+    <li class="nav-item"><a class="nav-link" href="#history">History</a></li>
+   </ul>
+</nav>
+
+
 The biennial International Conference on Monte Carlo Methods and Applications (MCM) (formerly IMACS Seminar on Monte Carlo Methods) is one of the most prominent conference series devoted to research on stochastic simulation and Monte Carlo methods. The 15th edition, MCM 2025, will take place from July 28 to August 1, 2025, at the Illinois Institute of Technology, Chicago, US. MCM 2025 brings together a multidisciplinary community of Monte Carlo researchers and practitioners to share their latest discoveries.
 
 <!--This 15th edition aims to cover traditional topics of MCM conferences (Computational statistical physics, Quasi Monte Carlo methods, Markov Chain Monte Carlo in high dimension, Multilevel methods, Rare events simulation, Stochastic gradient and other stochastic optimization methods…) as well as emerging topics coming from applications and from artificial intelligence as: Generative models, Experimental design in Uncertainty Quantification, Monte Carlo simulations and High Performance computing, Reinforcement learning and control, Statistical learning and Monte Carlo sampling, Economic and industrial applications (Deeptech, finance, medicine, climate risks for instance).
@@ -22,7 +36,8 @@ The biennial International Conference on Monte Carlo Methods and Applications (M
 
 <!-- Funding decisions for travel support through our sponsor, IMSI, have been made. Those who [apply now](https://www.imsi.institute/activities/15th-international-conference-on-monte-carlo-methods-and-applications-mcm/) will be added to the waitlist. -->
 
-## Topics
+<section id="topics" class="anchor-offset">
+### Topics
 
 MCM 2025 will include active topics of research in Monte Carlo methods---those with a long history as well as those emerging topics.  These will include
 * Markov chain Monte Carlo
@@ -50,8 +65,10 @@ MCM 2025 will include active topics of research in Monte Carlo methods---those w
 * Bayesian inference
 * Computational statistical physics
 * Economic, engineering, industrial, and scientific applications
+</section>
 
-## Plenary Speakers
+<section id="plenary" class="anchor-offset">
+### Plenary Speakers
 
 * Nicolas Chopin, ENSAE, Institut Polytechnique de Paris
 * Peter W Glynn, Stanford U
@@ -61,8 +78,10 @@ MCM 2025 will include active topics of research in Monte Carlo methods---those w
 * Rohan Sawhney, NVIDIA
 * Uros Seljak, U California, Berkeley
 * Michaela Szölgyenyi, University of Klagenfurt (AAU)
+</section>
 
-## Steering Committee
+<section id="steering" class="anchor-offset">
+### Steering Committee
 
 * Ronald Cools, KU Leuven
 * Mike Giles, Oxford University
@@ -73,7 +92,8 @@ MCM 2025 will include active topics of research in Monte Carlo methods---those w
 * Thomas Müller-Gronbach, Universität Passau
 * Bruno Tuffin, Inria Rennes Bretagne-Atlantique
 
-## Scientific Committee
+<section id="scientific" class="anchor-offset">
+### Scientific Committee
 
 * Miguel Arratia, Department of Physics and Astronomy, U California, Riverside
 * Ronald Cools, Department of Computer Science, KU Leuven
@@ -105,9 +125,10 @@ MCM 2025 will include active topics of research in Monte Carlo methods---those w
 * Bruno Tuffin, INRIA Rennes Bretagne-Atlantique
 * Jonathan Weare, Courant Institute of Mathematical Sciences, New York U
 
-## Organizers
+<section id="organizers" class="anchor-offset">
+### Organizers
 
-* Sou-Cheng Choi, Principal Data Scientist, SAS Institute and Applied Mathematics, Illinois Institute of Technology
+* Sou-Cheng Choi, Applied Mathematics, Illinois Institute of Technology
 * Yuhan Ding, Applied Mathematics, Illinois Institute of Technology
 * Fred Hickernell, Applied Mathematics, Illinois Institute of Technology
 * Tim Hobbs, Physics, Argonne National Laboratory
@@ -119,7 +140,8 @@ MCM 2025 will include active topics of research in Monte Carlo methods---those w
 * Chang-Han Rhee, Industrial Engineering and Management Sciences, Northwestern U
 * Daniel Sanz-Alonso, Statistics, U Chicago
 
-## Assistants
+<section id="assistants" class="anchor-offset">
+### Conference Assistants
 * Claude Hall Jr.
 * Mikhail Hall
 * Saman Haratian
@@ -131,9 +153,11 @@ MCM 2025 will include active topics of research in Monte Carlo methods---those w
 * Aleksei G. Sorokin
 * Priscilla Yinzime
 
+<section id="history" class="anchor-offset">
+### History of MCM Conferences
 
-## History of conferences
-
+* TBA, 2027
+* Chicago, United States, July 2025
 * Paris, France, July 2023
 * Mannheim, Germany, August 2021
 * Sydney, Australia, July 2019
