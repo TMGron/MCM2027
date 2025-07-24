@@ -35,7 +35,7 @@ Illinois Tech is located several miles south of downtown.  You  can reach Illino
 * the [CTA](https://www.transitchicago.com/schedules/) Route 29 bus, which stops at the corner of State and 32nd Streets, or
 * taxi, Uber, or Lyft.
 
-If you are driving to Illinois Tech, there is paid visitor parking in the lot on the east side of State Street between 31st and 32nd Streets (enter via State Street).
+If you are driving to Illinois Tech, there is paid visitor parking in several places (see the campus map), including west of Hermaann Hall.
 
 <section id="food" class="anchor-offset">
 ### Food
