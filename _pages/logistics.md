@@ -25,7 +25,7 @@ MCM 2025 will take place in Chicago. Greater Chicago is home to several research
 
 The conference will be held at Hermann Hall (HH) and Wishnick Hall (WH) at the Mies (main) campus of the Illinois Institute of Technology, which is situated a few miles south of downtown and accessible by public transportation.
 * [Directions to IIT](https://www.iit.edu/about/campus-information/mies-campus) 
-* [IIT Campus Map](https://www.iit.edu/about/campus-information/mies-campus/mies-campus-map)
+* [IIT Campus Map](https://www.iit.edu/sites/default/files/2022-08/mies-campus-accessibility-map-2022.pdf)
 * [Hermann Hall Floorplan]({{ site.baseurl }}/downloads/HH_Labeled_Flattened.pdf)
 
 
@@ -35,7 +35,7 @@ Illinois Tech is located several miles south of downtown.  You  can reach Illino
 * the [CTA](https://www.transitchicago.com/schedules/) Route 29 bus, which stops at the corner of State and 32nd Streets, or
 * taxi, Uber, or Lyft.
 
-If you are driving to Illinois Tech, there is paid visitor parking in several places (see the [campus ma](https://www.iit.edu/about/campus-information/mies-campus/mies-campus-map)), including west of Hermaann Hall.
+If you are driving to Illinois Tech, there is paid visitor parking in several places (see the [campus ma](https://www.iit.edu/sites/default/files/2022-08/mies-campus-accessibility-map-2022.pdf)), including west of Hermaann Hall.
 
 <section id="food" class="anchor-offset">
 ### Food
