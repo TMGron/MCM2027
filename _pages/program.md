@@ -26,11 +26,11 @@ permalink: /program/
   * 6:00 PM — Walk to White Sox game (Meet in HH lobby, block booked tickets in Box 118 Rows 14–16 are SOLD OUT, but you can purchase individual tickets nearby [here](https://www.ticketmaster.com/chicago-white-sox-vs-philadelphia-phillies-chicago-illinois-07-29-2025/event/04006185B901373E?refArtist=K8vZ9171ok0&f_simplified_filter=true)
 * Wednesday, July 30
   * 9:00 AM — Conference begins in HH auditorium
-  * 6:00 PM — Conference banquet at the [Bridgeport Art Center](https://www.bridgeportart.com)
+  * 6:00 PM — Conference banquet at the [Bridgeport Art Center](https://www.bridgeportart.com), purchase guest tickets [here](https://secure.touchnet.com/C20090_ustores/web/product_detail.jsp?PRODUCTID=2498&SINGLESTORE=true)
 * Thursday, July 31
   * 9:00 AM — Conference begins in HH auditorium
-  * 6:30 PM - Steering Committee meeting (by invitation only) at [Mikami Izakaya & Ramen](https://www.mikamichicago.com)
-  * 7:00 PM — Informal early career dinner at [Time Out](https://www.timeout.com/time-out-market-chicago) in Fulton Market
+  * 6:30 PM — Steering Committee meeting (by invitation only) at [Mikami Izakaya & Ramen](https://www.mikamichicago.com)
+  * 7:00 PM — Informal early career dinner at [Time Out](https://www.timeout.com/time-out-market-chicago) in Fulton Market (pay your own way)
 * Friday, August 1, 2025
   * 9:00 AM — Conference begins in HH auditorium
   * 12:45 PM — Conference concludes in HH auditorium
