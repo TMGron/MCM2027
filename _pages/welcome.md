@@ -26,6 +26,7 @@ The biennial International Conference on Monte Carlo Methods and Applications (M
 -->
 
 * <span style="font-size: 1.5em;"> Presenters, please upload your slides using this Google form: [tinyurl.com/MCM2025Slides](https://tinyurl.com/MCM2025Slides)  **at least two hours before your talk**.</span>
+* To view slides that presenters have shared, see [list of links to shared slides](https://tinyurl.com/MCMPublicSlides)
 * [Register here for MCM 2025](https://mailchi.mp/mcm2025chicago/mcm-2025-conference-registration).  All participants must register.
   * Paid registrants who withdraw from MCM 2025 may request
     * A full refund of their registration fees on or before June 29, and
