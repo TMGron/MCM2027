@@ -22,17 +22,24 @@ permalink: /
 
 The biennial International Conference on Monte Carlo Methods and Applications (MCM) (formerly IMACS Seminar on Monte Carlo Methods) is one of the most prominent conference series devoted to research on stochastic simulation and Monte Carlo methods. The 15th edition, MCM 2025, will take place from July 28 to August 1, 2025, at the Illinois Institute of Technology, Chicago, US. MCM 2025 brings together a multidisciplinary community of Monte Carlo researchers and practitioners to share their latest discoveries.
 
-<!--This 15th edition aims to cover traditional topics of MCM conferences (Computational statistical physics, Quasi Monte Carlo methods, Markov Chain Monte Carlo in high dimension, Multilevel methods, Rare events simulation, Stochastic gradient and other stochastic optimization methods…) as well as emerging topics coming from applications and from artificial intelligence as: Generative models, Experimental design in Uncertainty Quantification, Monte Carlo simulations and High Performance computing, Reinforcement learning and control, Statistical learning and Monte Carlo sampling, Economic and industrial applications (Deeptech, finance, medicine, climate risks for instance).
--->
+### Slides
+* Presenters
+  * Please upload your slides using this Google form: [tinyurl.com/MCM2025Slides](https://tinyurl.com/MCM2025Slides)  at least two hours before your talk.
+  * The submission link will remain open through the end of August so that you can update your slides.
+* To view slides that presenters have shared, see this list of links to shared slides: [tinyurl.com/MCMPublicSlides](https://tinyurl.com/MCMPublicSlides).
 
-* Presenters, please upload your slides using this Google form: [tinyurl.com/MCM2025Slides](https://tinyurl.com/MCM2025Slides)  at least two hours before your talk.
-* To view slides that presenters have shared, see list of links to shared slides: [tinyurl.com/MCMPublicSlides](https://tinyurl.com/MCMPublicSlides).
+<!--### Registration
 * [Register here for MCM 2025](https://mailchi.mp/mcm2025chicago/mcm-2025-conference-registration).  All participants must register.
   * Paid registrants who withdraw from MCM 2025 may request
     * A full refund of their registration fees on or before June 29, and
     * A half refund of their registration fees on or before July 13.
   * No refunds will be granted to registrants withdrawing on or after July 14.
   * Refunds may take a few weeks to process.
+-->
+
+### Join us in two years
+<img src="{{ site.baseurl }}/downloads/MCM27_anounce_firstpage.png" alt="Announcement" style="width: 100%; height: auto;" />
+
 
 <!--* Late contributed talk <a href="{{ site.url }}{{ site.baseurl }}/abstracts">abstract</a> submissions will be considered if there is room in the program. -->
 
