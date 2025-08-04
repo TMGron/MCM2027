@@ -14,4 +14,5 @@ permalink: /photos
 
 <!-- include image-gallery.html folder="/images/photos/2022-10-Gibbs" !-->
 
-Some conference photos will be posted here
+
+[View full conference photo gallery on Google Photos](https://photos.app.goo.gl/cgsg8opnxJWFyvtY9)
