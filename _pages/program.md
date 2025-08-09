@@ -38,17 +38,17 @@ permalink: /program/
 <section id="book" class="anchor-offset">
 ## Program Book
 
-The program book and schedule are updated regularly.  The latest update is __August 02, 2025__:
-* [**Schedule**]({{ site.baseurl }}/downloads/MCM2025_schedule_2025_08_02_19_38_44.pdf)
+The program book and schedule are updated regularly.  The latest update is __August 09, 2025__:
+* [**Schedule**]({{ site.baseurl }}/downloads/MCM2025_schedule_2025_08_09_06_54_28.pdf)
 
-* [**Program Book**]({{ site.baseurl }}/downloads/MCM2025_Book_2025_08_02_19_38_44.pdf)
+* [**Program Book**]({{ site.baseurl }}/downloads/MCM2025_Book_2025_08_09_06_54_28.pdf)
 
-* [**Schedule Plus Abstracts**]({{ site.baseurl }}/downloads/MCM2025_schedule_abstracts_2025_08_02_19_38_44.pdf)
+* [**Schedule Plus Abstracts**]({{ site.baseurl }}/downloads/MCM2025_schedule_abstracts_2025_08_09_06_54_28.pdf)
 
 
 <section id="outline" class="anchor-offset">
 ## Outline Schedule
-<iframe src="{{ site.baseurl }}/downloads/MCM2025_schedule1sheet_2025_08_02_19_38_44.pdf" width="100%" height="600px">
+<iframe src="{{ site.baseurl }}/downloads/MCM2025_schedule1sheet_2025_08_09_06_54_28.pdf" width="100%" height="600px">
     This browser does not support PDFs. Please download the PDF to view it:
-    <a href="{{ site.baseurl }}/downloads/MCM2025_schedule1sheet_2025_08_02_19_38_44.pdf">Download PDF</a>
+    <a href="{{ site.baseurl }}/downloads/MCM2025_schedule1sheet_2025_08_09_06_54_28.pdf">Download PDF</a>
 </iframe>
