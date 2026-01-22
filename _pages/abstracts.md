@@ -18,4 +18,4 @@ The LaTex templates are also provided on the submission portal, and on Overleaf 
 
 Should you have any questions, please don’t hesitate to contact the organizers at <info@mcm2025chicago.org>. -->
 
-<div> TBD </div>
+<div> TBD 
