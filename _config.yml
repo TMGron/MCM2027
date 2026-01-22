@@ -10,7 +10,7 @@ title: MCM 2025
 email: hickernell@iit.edu
 description: > # this means to ignore newlines until "baseurl:"
   This is the website of Monte Carlo Methods 2025, which will be held in Chicago at Illinois Tech.
-baseurl: "/mcm2025"
+baseurl: "/MCM2027"
 url: ""
 
 include:
