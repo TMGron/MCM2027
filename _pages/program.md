@@ -5,7 +5,7 @@ excerpt: "MCM 2027 -- Program."
 sitemap: false
 permalink: /program/
 ---
-TBD
+
 <!--
 <span style="display:none">.</span>
 <nav class="section-nav">
@@ -54,3 +54,4 @@ The program book and schedule are updated regularly.  The latest update is __Aug
     <a href="{{ site.baseurl }}/downloads/MCM2025_schedule1sheet_2025_08_09_06_54_28.pdf">Download PDF</a>
 </iframe>
 -->
+TBD
