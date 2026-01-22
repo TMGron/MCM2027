@@ -1,11 +1,11 @@
 ---
-title: "MCM 2025 - Abstracts"
+title: "MCM 2027 - Abstracts"
 layout: gridlay
-excerpt: "MCM 2025 -- Abstracts."
+excerpt: "MCM 2027 -- Abstracts."
 sitemap: false
 permalink: /abstracts/
 ---
-The deadlines for special session proposals and contributed talks have passed.
+<!-- The deadlines for special session proposals and contributed talks have passed.
 
 * Late submissions of contributed talk abstracts may be considered. They should be submitted through the [contributed talk submission portal](https://forms.gle/WASX4wZxVRj9ZdaA8). 
 
@@ -15,5 +15,5 @@ Abstracts should use use [Template_Abstract_Talk.tex](https://drive.google.com/f
 
 The LaTex templates are also provided on the submission portal, and on Overleaf ([template for talk abstracts](https://www.overleaf.com/read/tmfvtzwjwrnv#e182d2)).  Please follow the instructions given in the templates. This is to avoid problems when compiling the program book of the conference. Please refrain from changing the preamble of the .tex file, and from adding your own commands and macros. Please do not use the \bibliography environment or .bibtex files.
 
-Should you have any questions, please don’t hesitate to contact the organizers at <info@mcm2025chicago.org>. 
+Should you have any questions, please don’t hesitate to contact the organizers at <info@mcm2025chicago.org>. -->
 
