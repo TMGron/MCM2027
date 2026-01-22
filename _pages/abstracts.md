@@ -6,7 +6,6 @@ sitemap: false
 permalink: /abstracts/
 ---
 
-TBD
 <!-- The deadlines for special session proposals and contributed talks have passed.
 
 * Late submissions of contributed talk abstracts may be considered. They should be submitted through the [contributed talk submission portal](https://forms.gle/WASX4wZxVRj9ZdaA8). 
@@ -19,3 +18,4 @@ The LaTex templates are also provided on the submission portal, and on Overleaf 
 
 Should you have any questions, please don’t hesitate to contact the organizers at <info@mcm2025chicago.org>. -->
 
+<div> TBD </div>
