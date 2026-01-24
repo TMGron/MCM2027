@@ -1,11 +1,14 @@
 ---
-title: "MCM 2025 - Travel"
+title: "MCM 2027 - Travel"
 layout: gridlay
-excerpt: "MCM 2025 -- Travel."
+excerpt: "MCM 2027 -- Travel."
 sitemap: false
 permalink: /travel/
 ---
 
+TBD
+
+{% comment %}
 <span style="display:none">.</span>
 <nav class="section-nav">
   <ul class="nav justify-content-center flex-wrap">
@@ -73,3 +76,5 @@ We have negotiated a special rate with Le Méridien Essex Chicago for $249.00 US
 </p>
 
 </section>
+
+{% endcomment %}

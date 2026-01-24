@@ -1,11 +1,14 @@
 ---
-title: "MCM 2025 - Sponsors"
+title: "MCM 2027 - Sponsors"
 layout: gridlay
-excerpt: "MCM 2025 -- Sponsors."
+excerpt: "MCM 2027 -- Sponsors."
 sitemap: false
 permalink: /sponsors/
 ---
 
+TBD
+
+{% comment %}
 The conference is sponsored by the:
 
 * [Institute for Mathematical and Statistical Innovation](https://www.imsi.institute), 
@@ -37,3 +40,5 @@ a US National Science Foundation research institute based at the University of C
 * [Xcelerator Business Summit](https://www.xbsinfo.com/)
 
 [<img src="../images/logos/xcelerator-circle-v1.png" alt="Xcelerator Business Summit" width="30%">](https://www.xbsinfo.com/)
+
+{% endcomment %}

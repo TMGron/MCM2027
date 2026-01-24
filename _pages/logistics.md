@@ -1,11 +1,13 @@
 ---
-title: "MCM 2025 - Logistics"
+title: "MCM 2027 - Logistics"
 layout: gridlay
-excerpt: "MCM 2025 -- Logistics."
+excerpt: "MCM 2027 -- Logistics."
 sitemap: false
 permalink: /logistics/
 ---
 
+TBD 
+{% comment %}
 <span style="display:none">.</span>
 <nav class="section-nav">
   <ul class="nav justify-content-center flex-wrap">
@@ -132,3 +134,5 @@ In the United States, the standard voltage is 120V at a frequency of 60Hz.  The 
 #### Printing
 We do not have printers available at the conference venue, but you may print your documents at
 at [Illinois Tech Office Services](https://iitofficeservices.myprintdesk.net), located in MTCC.
+
+{% endcomment %}

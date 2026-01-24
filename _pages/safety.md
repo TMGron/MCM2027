@@ -1,11 +1,13 @@
 ---
-title: "MCM 2025 - Safety"
+title: "MCM 2027 - Safety"
 layout: gridlay
-excerpt: "MCM 2025 -- Safety."
+excerpt: "MCM 2027 -- Safety."
 sitemap: false
 permalink: /safety/
 ---
+TBD
 
+{% comment %}
 <span style="display:none">.</span>
 <nav class="section-nav">
   <ul class="nav justify-content-center flex-wrap">
@@ -39,3 +41,5 @@ Confidential resources, including services provided by the [Illinois Tech Studen
 Any person may report incidents of sexual harassment, discrimination or sexual violence to the campus Title IX office, which is named the 
 [Office of Title IX Compliance and HE Compliance](https://www.iit.edu/title-ix). Contact Title IX Office  by visiting  or by calling 312-567-5725.
 Reports to law enforcement can be made to Illinois Tech Public Safety Department at 312-808-6363 for on-campus incidents or to the local department where the crime occurred. The Illinois Tech Public Safety Department or the Title IX Office can help determine which police department to contact. In an emergency, dial 911. Reports to Illinois Tech Public Safety Department, which is open 24 hours a day, can be made in person at 3424 S. State St., Chicago, Illinois.
+
+{% endcomment %}
