@@ -100,38 +100,38 @@ TBD
 
 <section id="scientific" class="anchor-offset">
 ### Scientific Committee
-TBD
-{% comment %}
-* Miguel Arratia, Department of Physics and Astronomy, U California, Riverside
+Still in progress ...
+
+* Yuansi Chen, Department of Mathematics, ETH Zürich
 * Ronald Cools, Department of Computer Science, KU Leuven
-* Xinwei Deng, Department of Statistics, Virginia Polytechnic and State U
-* Jing Dong, Graduate School of Business, Columbia
-* Mike Giles, Mathematical Institute, Oxford U
-* Emmanuel Gobet, Centre de Mathématiques Appliquées, École Polytechnique
-* Shane Henderson, School of Operations Research and Information Engineering, Cornell U
-* Xuhui Huang, Department of Chemistry, UW Madison
-* Joshua Isaacson, Fermilab
+* Josef Dick, School of Mathematics and Statistics, UNSW Sydney
+* Alain Durmus, CMAP, École Polytechnique Paris
+* Mike Giles, Mathematical Institute, U Oxford 
+* Mark Girolami, Department of Engineering, U Cambridge 
+<!-- * Michael Gnewuch, Institut of Mathematics, U Osnabrück * Emmanuel Gobet, LPSM, Sorbonne Université -->
+* Stefan Heinrich, Department of Computer Science, RPTU Kaiserslautern
+* Fred Hickernell, Faculty of Applied Mathematics, Illinois Institute of Technology Chicago
 * Peter Kritzer, Johann Radon Institute for Computational and Applied Mathematics, Austrian Academy of Sciences
-* Frances Kuo, School of Mathematics and Statistics, U New South Wales
+<!-- * Frances Kuo, School of Mathematics and Statistics, UNSW Sydney -->
 * Pierre L'Ecuyer, Département d'informatique et de recherche opérationnelle, U Montréal
 * Christiane Lemieux, Department of Statistics and Actuarial Science, U Waterloo
-* Gunther Leobacher, Institute of Mathematics and Scientific Computing, U Graz
-* Chunfang Devon Lin, Department of Mathematics and Statistics, Queens U
-* Simon Mak, Department of Statistical Science, Duke U
-* Michael Mascagni, Department of Computer Science, Florida State U
-* Thomas Müller-Gronbach, Faculty of Computer Science and Mathematics, U Passau
-* Ben Nachman, Lawrence Berkeley National Lab
-* Chris Oates, School of Mathematics, Statistics, and Physics, U Newcastle Upon Tyne
+<!-- * Gunther Leobacher, Institute of Mathematics and Scientific Computing, U Graz -->
+* Youssef Marzouk, Department of Aeronautics and Astronautics, MIT Massachussets
+* Andreas Neuenkirch, Institute of Mathematics, U Mannheim
+* Erich Novak, Institute of Mathematics, U Jena 
 * Art Owen, Department of Statistics, Stanford U
-* Raghu Pasupathy, Department of Statistics, Purdue U
-* Natesh Pillai, Department of Statistics, Harvard U
-* Pieterjan Robbe, Sandia National Labs
-* Veronika Rockova, Chicago Booth School of Business, U Chicago
-* Jeffrey Rosenthal, Department of Statistics, U Toronto
-* Aretha Teckentrup, School of Mathematics, U Edinburgh
+* Klaus Ritter, Department of Mathematics, RPTU Kaiserslautern
+* Gareth Roberts, Department of Statistics, U Warwick
+* Claudia Schillings, Department of Mathematics and Computer Science, FU Berlin
+* Björn Sprungk, Faculty of Mathematics and Computer Science, TU Freiberg
+<!-- * Aretha Teckentrup, School of Mathematics, U Edinburgh -->
 * Bruno Tuffin, INRIA Rennes Bretagne-Atlantique
-* Jonathan Weare, Courant Institute of Mathematical Sciences, New York U
-{% endcomment %}
+* Mario Ullrich, Department of Mathematics, JKU Linz
+* Tino Ullrich, Faculty of Mathematics, U Chemnitz
+* Matti Vihola, Department of Mathematics and Statistics, U Jyväskylä
+* Jan Vybiral, Department of Mathematics, CVUT Prague
+* Larisa Yaroslavtseva, Institute of Mathematics and Scientific Computing, U Graz
+
 
 
 <section id="steering" class="anchor-offset">
