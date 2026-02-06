@@ -1,7 +1,7 @@
 ---
-title: "MCM 2025 - Welcome"
+title: "MCM 2027 - Welcome"
 layout: homelay
-excerpt: "MCM 2025 in Chicago, Illinois."
+excerpt: "MCM 2027 in Passau, Germany."
 sitemap: false
 permalink: /
 ---
