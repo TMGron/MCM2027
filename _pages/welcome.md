@@ -112,7 +112,7 @@ Still in progress ...
 * Stefan Heinrich, Department of Computer Science, RPTU Kaiserslautern
 * Fred Hickernell, Faculty of Applied Mathematics, Illinois Institute of Technology Chicago
 * Peter Kritzer, Johann Radon Institute for Computational and Applied Mathematics, Austrian Academy of Sciences
-<!-- * Frances Kuo, School of Mathematics and Statistics, UNSW Sydney -->
+* Frances Kuo, School of Mathematics and Statistics, UNSW Sydney 
 * Pierre L'Ecuyer, Département d'informatique et de recherche opérationnelle, U Montréal
 * Christiane Lemieux, Department of Statistics and Actuarial Science, U Waterloo
 <!-- * Gunther Leobacher, Institute of Mathematics and Scientific Computing, U Graz -->
