@@ -109,7 +109,7 @@ Still in progress ...
 * Mike Giles, Mathematical Institute, U Oxford 
 * Mark Girolami, Department of Engineering, U Cambridge 
 * Michael Gnewuch, Institut of Mathematics, U Osnabrück
-<--! * Emmanuel Gobet, LPSM, Sorbonne Université -->
+<!-- * Emmanuel Gobet, LPSM, Sorbonne Université -->
 * Stefan Heinrich, Department of Computer Science, RPTU Kaiserslautern
 * Fred Hickernell, Faculty of Applied Mathematics, Illinois Institute of Technology Chicago
 * Peter Kritzer, Johann Radon Institute for Computational and Applied Mathematics, Austrian Academy of Sciences
