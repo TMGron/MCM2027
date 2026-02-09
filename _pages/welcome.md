@@ -108,7 +108,8 @@ Still in progress ...
 * Alain Durmus, CMAP, École Polytechnique Paris
 * Mike Giles, Mathematical Institute, U Oxford 
 * Mark Girolami, Department of Engineering, U Cambridge 
-<!-- * Michael Gnewuch, Institut of Mathematics, U Osnabrück * Emmanuel Gobet, LPSM, Sorbonne Université -->
+* Michael Gnewuch, Institut of Mathematics, U Osnabrück
+<--! * Emmanuel Gobet, LPSM, Sorbonne Université -->
 * Stefan Heinrich, Department of Computer Science, RPTU Kaiserslautern
 * Fred Hickernell, Faculty of Applied Mathematics, Illinois Institute of Technology Chicago
 * Peter Kritzer, Johann Radon Institute for Computational and Applied Mathematics, Austrian Academy of Sciences
@@ -140,7 +141,7 @@ Still in progress ...
 * Ronald Cools, KU Leuven
 * Mike Giles, Oxford University
 * Emmanuel Gobet, Ecole Polytechnique, Palaiseau
-* Frances Kuo, University of New South Wales
+* Frances Kuo, UNSW Sydney
 * Christiane Lemieux, University of Waterloo
 * Gunter Leobacher, University of Graz
 * Thomas Müller-Gronbach, Universität Passau
