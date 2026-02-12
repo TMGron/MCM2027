@@ -112,6 +112,7 @@ Still in progress ...
 <!-- * Emmanuel Gobet, LPSM, Sorbonne Université -->
 * Stefan Heinrich, Department of Computer Science, RPTU Kaiserslautern
 * Fred Hickernell, Faculty of Applied Mathematics, Illinois Institute of Technology Chicago
+* Arnulf Jentzen, Faculty of Mathematics and Computer Science, U Münster
 * Peter Kritzer, Johann Radon Institute for Computational and Applied Mathematics, Austrian Academy of Sciences
 * Frances Kuo, School of Mathematics and Statistics, UNSW Sydney 
 * Pierre L'Ecuyer, Département d'informatique et de recherche opérationnelle, U Montréal
