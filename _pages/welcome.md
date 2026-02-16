@@ -100,7 +100,6 @@ TBD
 
 <section id="scientific" class="anchor-offset">
 ### Scientific Committee
-Still in progress ...
 
 * Yuansi Chen, Department of Mathematics, ETH Zürich
 * Ronald Cools, Department of Computer Science, KU Leuven
@@ -109,7 +108,6 @@ Still in progress ...
 * Mike Giles, Mathematical Institute, U Oxford 
 * Mark Girolami, Department of Engineering, U Cambridge 
 * Michael Gnewuch, Institut of Mathematics, U Osnabrück
-<!-- * Emmanuel Gobet, LPSM, Sorbonne Université -->
 * Stefan Heinrich, Department of Computer Science, RPTU Kaiserslautern
 * Fred Hickernell, Faculty of Applied Mathematics, Illinois Institute of Technology Chicago
 * Arnulf Jentzen, Faculty of Mathematics and Computer Science, U Münster
@@ -117,7 +115,6 @@ Still in progress ...
 * Frances Kuo, School of Mathematics and Statistics, UNSW Sydney 
 * Pierre L'Ecuyer, Département d'informatique et de recherche opérationnelle, U Montréal
 * Christiane Lemieux, Department of Statistics and Actuarial Science, U Waterloo
-<!-- * Gunther Leobacher, Institute of Mathematics and Scientific Computing, U Graz -->
 * Youssef Marzouk, Department of Aeronautics and Astronautics, MIT Massachussets
 * Andreas Neuenkirch, Institute of Mathematics, U Mannheim
 * Erich Novak, Institute of Mathematics, U Jena 
@@ -126,7 +123,6 @@ Still in progress ...
 * Gareth Roberts, Department of Statistics, U Warwick
 * Claudia Schillings, Department of Mathematics and Computer Science, FU Berlin
 * Björn Sprungk, Faculty of Mathematics and Computer Science, TU Freiberg
-<!-- * Aretha Teckentrup, School of Mathematics, U Edinburgh -->
 * Bruno Tuffin, INRIA Rennes Bretagne-Atlantique
 * Mario Ullrich, Department of Mathematics, JKU Linz
 * Tino Ullrich, Faculty of Mathematics, U Chemnitz
