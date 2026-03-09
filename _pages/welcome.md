@@ -108,6 +108,7 @@ TBD
 * Mike Giles, Mathematical Institute, U Oxford 
 * Mark Girolami, Department of Engineering, U Cambridge 
 * Michael Gnewuch, Institut of Mathematics, U Osnabrück
+* Emmanuel Gobet, Laboratoire de Probabilités, Statistique et Modélisation, Sorbonne U
 * Stefan Heinrich, Department of Computer Science, RPTU Kaiserslautern
 * Fred Hickernell, Faculty of Applied Mathematics, Illinois Institute of Technology Chicago
 * Arnulf Jentzen, Faculty of Mathematics and Computer Science, U Münster
