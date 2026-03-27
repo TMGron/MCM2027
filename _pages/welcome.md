@@ -78,17 +78,14 @@ MCM 2027 will include active topics of research in Monte Carlo methods---those w
 <section id="plenary" class="anchor-offset">
 ### Plenary Speakers
 
-TBD
-{% comment %}
-* Nicolas Chopin, ENSAE, Institut Polytechnique de Paris
-* Peter W Glynn, Stanford U
-* Roshan Joseph, Georgia Institute of Technology
-* Christiane Lemieux, University of Waterloo
-* Veronika Rockova, University of Chicago
-* Rohan Sawhney, NVIDIA
-* Uros Seljak, U California, Berkeley
-* Michaela Szölgyenyi, University of Klagenfurt (AAU)
-{% endcomment %}
+* Yuansi Chen, ETH Zürich
+* Steffen Dereich, U Münster
+* Josef Dick, UNSW Sydney
+* Matthieu Dolbeault, Brown U Providence
+* Máté Gerencsér, TU Wien
+* Youssef Marzouk, MIT
+* Ingo Steinwart, U Stuttgart
+* Alexandre Thiéry, NU Singapore
 
 <section id="organizers" class="anchor-offset">
 ### Organizers
