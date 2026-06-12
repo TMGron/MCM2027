@@ -122,7 +122,6 @@ MCM 2027 will include active topics of research in Monte Carlo methods---those w
 * Gareth Roberts, Department of Statistics, U Warwick
 * Claudia Schillings, Department of Mathematics and Computer Science, FU Berlin
 * Björn Sprungk, Faculty of Mathematics and Computer Science, TU Freiberg
-* Aretha Teckentrup, School of Mathematics, U Edinburgh
 * Bruno Tuffin, INRIA Rennes Bretagne-Atlantique
 * Mario Ullrich, Department of Mathematics, JKU Linz
 * Tino Ullrich, Faculty of Mathematics, U Chemnitz
