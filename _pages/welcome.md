@@ -111,16 +111,13 @@ MCM 2027 will include active topics of research in Monte Carlo methods---those w
 * Arnulf Jentzen, Faculty of Mathematics and Computer Science, U Münster
 * Alexander Keller, NVIDIA
 * Peter Kritzer, Johann Radon Institute for Computational and Applied Mathematics, Austrian Academy of Sciences
-* Frances Kuo, School of Mathematics and Statistics, UNSW Sydney 
 * Pierre L'Ecuyer, Département d'informatique et de recherche opérationnelle, U Montréal
-* Christiane Lemieux, Department of Statistics and Actuarial Science, U Waterloo
 * Youssef Marzouk, Department of Aeronautics and Astronautics, MIT Massachussets
 * Andreas Neuenkirch, Institute of Mathematics, U Mannheim
 * Erich Novak, Institute of Mathematics, U Jena 
 * Art Owen, Department of Statistics, Stanford U
 * Klaus Ritter, Department of Mathematics, RPTU Kaiserslautern
 * Gareth Roberts, Department of Statistics, U Warwick
-* Claudia Schillings, Department of Mathematics and Computer Science, FU Berlin
 * Björn Sprungk, Faculty of Mathematics and Computer Science, TU Freiberg
 * Bruno Tuffin, INRIA Rennes Bretagne-Atlantique
 * Mario Ullrich, Department of Mathematics, JKU Linz
