@@ -78,7 +78,6 @@ MCM 2027 will include active topics of research in Monte Carlo methods---those w
 <section id="plenary" class="anchor-offset">
 ### Plenary Speakers
 
-* Yuansi Chen, ETH Zürich
 * Steffen Dereich, U Münster
 * Josef Dick, UNSW Sydney
 * Matthieu Dolbeault, Brown U Providence
