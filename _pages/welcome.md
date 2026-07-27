@@ -86,6 +86,12 @@ MCM 2027 will include active topics of research in Monte Carlo methods---those w
 * Ingo Steinwart, U Stuttgart
 * Alexandre Thiéry, NU Singapore
 
+<section id="tutorial" class="anchor-offset">
+### Tutorial Speakers
+
+* Ujué Etayo, CUNEF Universidad
+* Kateryna Pozharska, TU Chemnitz
+  
 <section id="organizers" class="anchor-offset">
 ### Organizers
 
