@@ -141,8 +141,7 @@ MCM 2027 will include active topics of research in Monte Carlo methods---those w
 * Emmanuel Gobet, Ecole Polytechnique, Palaiseau
 * Frances Kuo, UNSW Sydney
 * Christiane Lemieux, University of Waterloo
-* Gunter Leobacher, University of Graz
-* Thomas Müller-Gronbach, Universität Passau
+* Gunther Leobacher, University of Graz
 * Bruno Tuffin, Inria Rennes Bretagne-Atlantique
 
 
