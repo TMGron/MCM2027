@@ -82,9 +82,9 @@ MCM 2027 will include active topics of research in Monte Carlo methods---those w
 * Josef Dick, UNSW Sydney
 * Matthieu Dolbeault, Brown U Providence
 * Máté Gerencsér, TU Wien
+* Sifan Liu, Duke U
 * Youssef Marzouk, MIT
 * Ingo Steinwart, U Stuttgart
-* Alexandre Thiéry, NU Singapore
 
 <section id="tutorial" class="anchor-offset">
 ### Tutorial Speakers
