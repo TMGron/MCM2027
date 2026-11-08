@@ -12,7 +12,8 @@ permalink: /
   <ul class="nav flex-wrap">
      <li class="nav-item"><a class="nav-link" href="#topics">Topics</a></li>
     <li class="nav-item"><a class="nav-link" href="#plenary">Plenary Speakers</a></li>
-     <li class="nav-item"><a class="nav-link" href="#organizers">Organizers</a></li>
+    <li class="nav-item"><a class="nav-link" href="#tutorial">Tutorials</a></li>
+    <li class="nav-item"><a class="nav-link" href="#organizers">Organizers</a></li>
      <li class="nav-item"><a class="nav-link" href="#scientific">Scientific Committee</a></li>
     <li class="nav-item"><a class="nav-link" href="#steering">Steering Committee</a></li>
      <li class="nav-item"><a class="nav-link" href="#history">History</a></li>
@@ -87,11 +88,11 @@ MCM 2027 will include active topics of research in Monte Carlo methods---those w
 * Ingo Steinwart, U Stuttgart
 
 <section id="tutorial" class="anchor-offset">
-### Tutorial Speakers
+### Tutorials
 
-* Ujué Etayo, CUNEF Universidad
-* Kateryna Pozharska, TU Chemnitz
-  
+* Ujué Etayo, CUNEF Universidad: Discrepancy on Manifolds: Uniformity, Randomness, and Numerical Integration
+* Kateryna Pozharska, TU Chemnitz: Function recovery: algorithms, sampling strategies and optimality
+
 <section id="organizers" class="anchor-offset">
 ### Organizers
 
